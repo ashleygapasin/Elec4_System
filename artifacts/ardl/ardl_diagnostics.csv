@@ -1,0 +1,4 @@
+test,p_value
+Ljung-Box lag 6,0.36143931794011214
+Ljung-Box lag 12,0.56850760334815
+Jarque-Bera,1.2141070518848203e-102

@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# React dependencies
+node_modules/
+frontend/node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Build outputs
+frontend/dist/
+dist/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
